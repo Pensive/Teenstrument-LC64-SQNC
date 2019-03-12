@@ -1,7 +1,7 @@
 # Teenstrument-LC64-SQNC
 An Adafruit Untztrument 64, a Teensy-LC, as a standalone MIDI 32 step sequencer
 
-This project was born from my involvem ent ion the Teeny LC beta testing stage.
+This project was born from my involvement in the Teeny LC beta testing stage.
 I decided getting it working with an Untztrument was a reasonable challenge / test - and 
 this little 32 step sequencer has proven that it's a capable little board.
 
